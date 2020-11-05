@@ -1,4 +1,4 @@
-## EA Nutri - Calcular IMC
+## EA Nutri - Cálcular IMC
 
 ### Introdução
 
