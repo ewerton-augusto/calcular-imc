@@ -23,4 +23,4 @@ Website desenvolvido com CSS, JavaScript para cálculos IMC.
 
 ### Outros
 
-- EA Nutri Cálculo IMC [Link](https://eanutri.easystems.com.br/)
+- EA Nutri Cálculo IMC [DEMO](https://eanutri.easystems.com.br/)
