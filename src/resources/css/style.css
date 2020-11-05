@@ -1,0 +1,26 @@
+header {
+    background-color: black;
+    color: cornsilk;
+}
+
+footer {
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#mensagens-erro {
+    color: red;
+}
+
+.fadeOut {
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.invisivel {
+    display: none;
+}
